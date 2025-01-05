@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
         
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/

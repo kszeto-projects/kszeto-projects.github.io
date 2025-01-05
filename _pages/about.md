@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kevin Szeto"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,6 +13,6 @@ I am interested in robotic control & manipulation, perception, and motion planni
 
 I have recently worked as a full-time Electrical Engineer and then Product Design Engineer at Left Coast Engineering for over two years in rapid product development. I managed multiple types of projects ranging from an IoT liquid measurement sensor to testing and reworking a custom laser diffraction sensor for analyzing sediment in solution. I designed, fabricated, and tested multiple printed circuit boards, worked on microcontroller embedded programming, and designed several mechanical testing fixtures through the wide variety of projects that I was able to work on. This summer, I interned at Devonics Automation, Inc. as an Automation Engineering Intern where I helped program automated tests for their battery longevity tests using a suite of 6-DOF robot manipulators. I also worked on a newly acquired AMR to understand its functionality and presented what I learned to the team. Previously, I also interned at Procept BioRobotics and Abbott Laboratories where I used my skills and knowledge from my bioengineering and electrical engineering background to work on testing a novel aquablation technology, design test protocols for the LVAD heart implant, and create a heatmap of the ECMO oxygenation system's packaging wear and tear.
 
-Portfolio
-======
+# Portfolio
+# ======
 

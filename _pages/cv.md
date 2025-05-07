@@ -50,24 +50,3 @@ Skills
 * Hardware: PCB bringup and troubleshooting, Soldering (as small as 0201 components), Prototyping
 * Courses: Robot kinematics/dynamics, SLAM, camera and sensor perception, motion planning with dynamic programming, optimal control, reinforcement learning basics, PID control, optimization methods, deep learning architecture for computer vision applications, statistical learning, image processing techniques
 
-# Publications
-# ======
-#   <ul>{% for post in site.publications reversed %}
-#     {% include archive-single-cv.html %}
-#   {% endfor %}</ul>
-  
-# Talks
-# ======
-#   <ul>{% for post in site.talks reversed %}
-#     {% include archive-single-talk-cv.html  %}
-#   {% endfor %}</ul>
-  
-# Teaching
-# ======
-#   <ul>{% for post in site.teaching reversed %}
-#     {% include archive-single-cv.html %}
-#   {% endfor %}</ul>
-  
-# Service and leadership
-# ======
-# * Currently signed in to 43 different slack teams

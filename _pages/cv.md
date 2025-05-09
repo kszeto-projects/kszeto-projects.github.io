@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
+======
 * M.S. in Electrical Engineering - Intelligent Systems, Robotics, and Controls, University of California, San Diego, 2025
 * B.S. in Bioengineering and Electrical Engineering, University of the Pacific, 2021
 

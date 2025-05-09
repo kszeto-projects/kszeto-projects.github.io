@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a Master's in Electrical and Computer Engineering (ECE) at UC San Diego with a focus in Intelligent Systems, Robotics, and Controls, and will be graduating in March 2025. I graduated in 2021 from the University of the Pacific with a B.S. in Bioengineering and a B.S. in Electrical Engineering. 
+I recently graduated with Master's in Electrical and Computer Engineering (ECE) at UC San Diego with a focus in Intelligent Systems, Robotics, and Controls. I graduated in 2021 from the University of the Pacific with a B.S. in Bioengineering and a B.S. in Electrical Engineering. I am looking to begin my career as a robotics engineer and apply what I have learned to real systems.
 
 I am interested in robotic control & manipulation, perception, and motion planning to help create reliable, safe, and impactful robots that improve our quality of life. I am currently a part of a research lab at UCSD that focuses on multi-agent semantic mapping for outdoor environments, which has allowed me to work closely with the ROS framework using Python and C++. I have worked on gathering test data with the Clearpath Jackal ground wheeled robots, testing the stack in Gazebo sim, and transitioning the current stack on the ROS1 framework to ROS2. 
 
@@ -15,3 +15,4 @@ I have recently worked as a full-time Electrical Engineer and then Product Desig
 
 This summer, I interned at Devonics Automation, Inc. as an Automation Engineering Intern where I helped program automated tests for their battery longevity tests using a suite of 6-DOF robot manipulators. I also worked on a newly acquired AMR to understand its functionality and presented what I learned to the team. Previously, I also interned at Procept BioRobotics and Abbott Laboratories where I used my skills and knowledge from my bioengineering and electrical engineering background to work on testing a novel aquablation technology, design test protocols for the LVAD heart implant, and create a heatmap of the ECMO oxygenation system's packaging wear and tear.
 
+In my free time, I enjoy hiking and walks with my dog, tennis (and more recently pickleball), and trying new foods. As a personal project, I am currently converting a broken Roomba into a raspberry pi robot with ROS. The ultimate goal would be to create a robot pickleball partner.
